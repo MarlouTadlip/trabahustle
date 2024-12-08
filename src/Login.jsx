@@ -15,7 +15,7 @@ function Login(){
 
   return (
     <div className="flex h-screen">
-      <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('src/assets/login.svg')" }}>
+      <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('login.svg')" }}>
       </div>
 
       <div className="w-1/2 flex flex-col justify-center items-center bg-white p-8">
