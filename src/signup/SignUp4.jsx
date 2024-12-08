@@ -48,10 +48,10 @@ function SignUp4() {
             <NavLink to="/signup-2" className="bg-gray-300 text-black rounded-md px-10 py-2">
               Back
             </NavLink>
-            <NavLink to="/signup-4" className="bg-[#418B71] text-white rounded-md px-10 py-2">
+            <NavLink to="/signup-5" className="bg-[#418B71] text-white rounded-md px-10 py-2">
               Proceed: Preview
             </NavLink>
-        </div>
+    </div>
     </>
   );
 };

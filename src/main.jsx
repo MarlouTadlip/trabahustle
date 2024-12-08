@@ -17,6 +17,8 @@ import ImportLinkedIn from './signup/ImportLinkedIn.jsx'
 import UploadSuccess from './signup/UploadSuccess.jsx'
 import ImportSuccess from './signup/ImportSuccess.jsx'
 import SignUp4 from './signup/SignUp4.jsx';
+import SignUp5 from './signup/SignUp5.jsx';
+import SignUpSuccess from './signup/SignUpSuccess.jsx';
 
 const router = createBrowserRouter([
   {
@@ -78,6 +80,14 @@ const router = createBrowserRouter([
   {
     path: '/signup-4',
     element: <SignUp4/>
+  },
+  {
+    path: '/signup-5',
+    element: <SignUp5/>
+  },
+  {
+    path: '/signup-success',
+    element: <SignUpSuccess/>
   }
 ]);
 

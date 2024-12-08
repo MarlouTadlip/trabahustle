@@ -4,8 +4,8 @@ const Navbar = () => {
     return (
         <nav className="flex justify-between items-center p-4 bg-[#418B5B] text-white h-28">
             <div className="flex items-center">
-                <img src="Icon.png" alt="Logo" className="h-10 w-10 mr-2" />
-                <NavLink to="/"><span className="text-xl font-bold">TRABAHUSTLE</span></NavLink>
+                <img src="Icon.png" alt="Logo" className="h-13 w-13 mr-2" />
+                <NavLink to="/"><span className="text-2xl font-bold">TRABAHUSTLE</span></NavLink>
             </div>
 
             <div className="flex space-x-16">
@@ -17,10 +17,10 @@ const Navbar = () => {
 
             <div className="flex space-x-10">
                 <div className=" bg-white rounded-lg p-2">
-                    <NavLink to="/login" className="hover:text-gray-400 text-black w-full">Login</NavLink>
+                    <NavLink to="/login" className="hover:text-gray-400 text-black px-7 py-5">Login</NavLink>
                 </div>
                 <div className="bg-[#418B71] rounded-lg p-2">
-                    <NavLink to="/signup" className="hover:text-gray-400">Sign Up</NavLink>
+                    <NavLink to="/signup" className="hover:text-gray-400 px-7 py-5">Sign Up</NavLink>
                 </div>
             </div>
         </nav>

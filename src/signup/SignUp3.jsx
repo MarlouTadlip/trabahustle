@@ -9,7 +9,7 @@ function SignUp3(){
         </div>
 
         <div className="pl-16 pr-16 pt-10 pb-28">
-            <h1 className="text-3xl mb-3">FILL IN RESUME</h1>
+            <h1 className="text-4xl mb-3">FILL IN RESUME</h1>
             <p className="opacity-50"> Provide key details about your work experience, education, and achievements to showcase your professional background.</p>
             <br></br>
 
