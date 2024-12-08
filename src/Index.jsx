@@ -6,7 +6,7 @@ function Index() {
       <Nav/>
       <div
       className="h-screen bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('./src/assets/landing1.svg')" }}
+      style={{ backgroundImage: "url('landing1.svg')" }}
       ></div>
       </>
     )
