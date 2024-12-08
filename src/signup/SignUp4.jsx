@@ -4,7 +4,7 @@ function SignUp4() {
   return (
     <>
       <div className="flex h-screen">  
-        <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('src/assets/signup4.svg')" }}>
+        <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('signup4.svg')" }}>
         </div>      
         <div className="w-1/2 flex flex-col bg-white pl-10 pb-10 pr-10 pt-7">
             <h1 className="pb-10">4/5 <b className="ml-3">Freelancer Registration</b></h1>

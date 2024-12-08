@@ -5,7 +5,7 @@ function UploadResume() {
         <div className="flex flex-col items-center text-center p-12">
             <h1 className="font-bold text-3xl mb-10" >UPLOADING YOUR RESUME</h1>
             <p className="opacity-50">Drag and drop your resume to upload</p>
-            <img src="src/assets/uploadresume.svg" className=" mb-8 scale-90"></img>
+            <img src="uploadresume.svg" className=" mb-8 scale-90"></img>
             <p className="text-red-500 mb-3 flex justify-center"><Info className="mr-2"/>Please wait while we upload your resume</p>
             <p className="opacity-50">Once the upload is complete, you’ll have the chance to review and update your resume details before finalizing your profile.</p>
             <div className="flex space-x-12 mt-10 mb-5">

@@ -9,7 +9,7 @@ function SignUp1() {
       </div>
       <div className="flex h-5/6">
         <div className="w-1/2 flex flex-col items-center justify-center">
-          <img src="src/assets/signup2.svg" alt="Sign Up" className="scale-100" />
+          <img src="signup2.svg" alt="Sign Up" className="scale-100" />
           <button className="flex items-center bg-[#418B71] text-white rounded-md px-4 py-2 mt-4 mb-2">
             <ImageUp size={20} className="mr-2" /> Upload Photo
           </button>
