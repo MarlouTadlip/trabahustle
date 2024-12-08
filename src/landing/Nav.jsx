@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <nav className="flex justify-between items-center p-4 bg-[#418B5B] text-white h-28">
             <div className="flex items-center">
-                <img src="src/assets/Icon.png" alt="Logo" className="h-8 w-8 mr-2" />
+                <img src="./src/assets/Icon.png" alt="Logo" className="h-10 w-10 mr-2" />
                 <NavLink to="/"><span className="text-xl font-bold">TRABAHUSTLE</span></NavLink>
             </div>
 
