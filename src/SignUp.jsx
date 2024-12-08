@@ -16,14 +16,12 @@ function SignUp() {
         <div className="flex justify-center space-x-10 mb-11">
 
           <div className="relative flex flex-col items-center bg-[#EF8F00] p-20 rounded-lg shadow-md cursor-pointer hover:bg-gray-200 transition">
-            <input type="checkbox" className="absolute top-2 right-2 h-10 w-10" />
             <IdCard size={100} className="text-white mb-2" />
             <h2 className="text-white text-lg font-semibold">Employer</h2>
             <p className="text-white">(I want to Hire)</p>
           </div>
 
           <div className="relative flex flex-col items-center bg-[#418B71] p-20 rounded-lg shadow-md cursor-pointer hover:bg-gray-200 transition">
-            <input type="checkbox" className="absolute top-2 right-2 h-10 w-10" />
             <Briefcase size={100} className="text-white mb-2" />
             <h2 className="text-white text-lg font-semibold">Freelancer</h2>
             <p className="text-white">(I am looking for Work)</p>
