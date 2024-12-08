@@ -1,12 +1,9 @@
 import { NavLink } from 'react-router-dom';
-
+import Logo from '../components/Logo.jsx';
 const Navbar = () => {
     return (
         <nav className="flex justify-between items-center p-4 bg-[#418B5B] text-white h-28">
-            <div className="flex items-center">
-                <img src="Icon.png" alt="Logo" className="h-13 w-13 mr-2" />
-                <NavLink to="/"><span className="text-2xl font-bold">TRABAHUSTLE</span></NavLink>
-            </div>
+            <Logo/>
 
             <div className="flex space-x-16">
                 <NavLink to="/find-freelancers" className="hover:text-gray-400">Find Freelancers</NavLink>

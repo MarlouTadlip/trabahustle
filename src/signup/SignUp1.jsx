@@ -7,7 +7,7 @@ function SignUp1() {
       <div>
         <h1 className="pl-7 pt-7">1/5 <b className="ml-3">Freelancer Registration</b></h1>
       </div>
-      <div className="flex h-screen">
+      <div className="flex h-auto">
         <div className="w-1/2 flex flex-col items-center justify-center">
           <img src="signup2.svg" alt="Sign Up" className="scale-100" />
           <button className="flex items-center bg-[#418B71] text-white rounded-md px-4 py-2 mt-4 mb-2">
@@ -19,7 +19,7 @@ function SignUp1() {
           </p>
         </div>
         
-        <div className="border-l border-gray-300 h-5/6 mx-4"></div>
+        <div className="border-l border-gray-300 h-screen mx-4"></div>
 
         <div className="w-1/2 flex flex-col bg-white p-8">
           <h1 className="text-4xl font-bold mb-4">YOUR BASIC INFORMATION</h1>
