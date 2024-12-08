@@ -5,7 +5,7 @@ function SignUp() {
   return (
     <div className="flex h-screen">
       {/* Left Image Section */}
-      <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('src/assets/signup1.svg')" }}>
+      <div className="w-1/2 bg-cover bg-center" style={{ backgroundImage: "url('signup1.svg')" }}>
       </div>
 
 
