@@ -5,7 +5,7 @@ function SignUp1() {
   return (
     <>
       <div>
-        <h1 className="pl-7 pt-7">1/5 <b className="ml-3">Freelancer Registration</b></h1>
+        <h1 className="pl-7 pt-7">1/8 <b className="ml-3">Client Registration</b></h1>
       </div>
       <div className="flex h-auto">
         <div className="w-1/2 flex flex-col items-center justify-center">
@@ -54,8 +54,8 @@ function SignUp1() {
                 <input type="text" id="last_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Enter Last Name" required />
               </div>
               <div>
-                <label className="block mb-2 text-sm font-medium text-gray-900">Email Address</label>
-                <input type="text" id="company" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Enter Email Address" required />
+                <label className="block mb-2 text-sm font-medium text-gray-900">Work Email Address</label>
+                <input type="text" id="company" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Enter Work Email Address" required />
               </div>  
               <div>
                 <label className="block mb-2 text-sm font-medium text-gray-900">Phone Number</label>
@@ -102,14 +102,14 @@ function SignUp1() {
         </div>
       </div>
       <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4">
-        <div className="bg-[#00B676] h-1.5 rounded-full" style={{width: '20%'}}></div>
+        <div className="bg-[#00B676] h-1.5 rounded-full" style={{width: '12.5%'}}></div>
       </div>
       <div className="flex justify-between mt-8 pl-7 pr-7 pb-7">
         <NavLink to="/signup" className="bg-gray-300 text-black rounded-md px-10 py-2">
           Back
         </NavLink>
-        <NavLink to="/signup-2" className="bg-[#418B71] text-white rounded-md px-10 py-2">
-          Proceed: Skills
+        <NavLink to="/signup-client-2" className="bg-[#418B71] text-white rounded-md px-10 py-2">
+          Proceed: Project Title
         </NavLink>
       </div>
     </>

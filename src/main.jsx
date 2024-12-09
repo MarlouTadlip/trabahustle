@@ -22,7 +22,8 @@ import SignUp5 from './freelancersignup/SignUp5.jsx';
 import SignUpSuccess from './freelancersignup/SignUpSuccess.jsx';
 
 import SignUp1Client from './clientsignup/SignUp1.jsx';
-
+import SignUp2Client from './clientsignup/SignUp2.jsx';
+import SignUp3Client from './clientsignup/SignUp3.jsx';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -95,6 +96,14 @@ const router = createBrowserRouter([
   {
     path: '/signup-client-1',
     element: <SignUp1Client/>
+  },
+  {
+    path: '/signup-client-2',
+    element: <SignUp2Client/>
+  },
+  {
+    path: '/signup-client-3',
+    element: <SignUp3Client/>
   }
 ]);
 
