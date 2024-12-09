@@ -9,16 +9,16 @@ import Explore from './landing/Explore.jsx';
 import Help from './landing/Help.jsx';
 import Login from './Login.jsx';
 import SignUp from './SignUp.jsx';
-import SignUp1 from './signup/SignUp1.jsx';
-import SignUp2 from './signup/SignUp2.jsx';
-import UploadResume from './signup/UploadResume.jsx';
-import SignUp3 from './signup/SignUp3.jsx';
-import ImportLinkedIn from './signup/ImportLinkedIn.jsx'
-import UploadSuccess from './signup/UploadSuccess.jsx'
-import ImportSuccess from './signup/ImportSuccess.jsx'
-import SignUp4 from './signup/SignUp4.jsx';
-import SignUp5 from './signup/SignUp5.jsx';
-import SignUpSuccess from './signup/SignUpSuccess.jsx';
+import SignUp1 from './freelancersignup/SignUp1.jsx';
+import SignUp2 from './freelancersignup/SignUp2.jsx';
+import UploadResume from './freelancersignup/UploadResume.jsx';
+import SignUp3 from './freelancersignup/SignUp3.jsx';
+import ImportLinkedIn from './freelancersignup/ImportLinkedIn.jsx'
+import UploadSuccess from './freelancersignup/UploadSuccess.jsx'
+import ImportSuccess from './freelancersignup/ImportSuccess.jsx'
+import SignUp4 from './freelancersignup/SignUp4.jsx';
+import SignUp5 from './freelancersignup/SignUp5.jsx';
+import SignUpSuccess from './freelancersignup/SignUpSuccess.jsx';
 
 const router = createBrowserRouter([
   {
