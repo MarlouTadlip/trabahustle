@@ -27,28 +27,28 @@ function SignUp3(){
                 <form>
                     <div className="grid gap-x-10 gap-y-5 md:grid-cols-3">
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Job Title</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Job Title</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Company Name</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Company Name</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Location</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Location</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Employment Type</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Employment Type</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Start Date</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Start Date</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">End Date/ Present</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">End Date/ Present</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                     </div>
                     <button className="flex justify-center rounded-md px-3 py-2 mt-3 bg-[#EF8F00] text-white"><SquarePlus className="mr-2"/>Add Another Work Experience</button>
@@ -62,24 +62,24 @@ function SignUp3(){
                 <form>
                     <div className="grid gap-x-10 gap-y-5 md:grid-cols-3">
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Institution Name</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Institution Name</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Degree/Course</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Degree/Course</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Academic Achievements</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Academic Achievements</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Start Year</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Start Year</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">End Year</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">End Year</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                     </div>
                     <button className="flex justify-center rounded-md w-72 py-2 mt-3 bg-[#EF8F00] text-white"><SquarePlus className="mr-2"/>Add Another Education Entry</button>
@@ -93,20 +93,20 @@ function SignUp3(){
                 <form>
                     <div className="grid gap-x-10 gap-y-5 md:grid-cols-2 w-auto">
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Certification Name</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Certification Name</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Issuing Organization</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Issuing Organization</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Issue Date</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Issue Date</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Expiration Date</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Expiration Date</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                     </div>
                     <button className="flex justify-center rounded-md w-72 py-2 mt-3 bg-[#EF8F00] text-white"><SquarePlus className="mr-2"/>Add Another Certificate</button>
@@ -120,12 +120,12 @@ function SignUp3(){
                 <form>
                     <div className="grid gap-x-10 gap-y-5 md:grid-cols-2">
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Language</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Language</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Proficiency Level</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Proficiency Level</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                     </div>
                     <button className="flex justify-center rounded-md w-72 py-2 mt-3 bg-[#EF8F00] text-white"><SquarePlus className="mr-2"/>Add Another Lanuage</button>
@@ -139,8 +139,8 @@ function SignUp3(){
                 <form>
                     <div className="grid gap-x-10 gap-y-5 md:grid-cols-2">
                         <div>
-                            <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Upload Links</label>
-                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Placeholder" required />
+                            <label className="block mb-2 text-sm font-medium text-gray-900 ">Upload Links</label>
+                            <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5     " placeholder="Placeholder" required />
                         </div>
                     </div>
                 </form>
@@ -148,15 +148,15 @@ function SignUp3(){
             <h1 className="text-red-600 flex justify-content"><Info className="mr-2"/>Attach files or provide links to examples of your work.</h1>
         </div>
 
-        <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700">
+        <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 ">
             <div className="bg-[#00B676] h-1.5 rounded-full dark:bg-blue-500" style={{width: '60%'}}></div>
         </div>
 
         <div className="flex justify-between mt-8 pl-7 pr-7 pb-7">
-            <NavLink to="/signup-2" className="bg-gray-300 text-black rounded-md px-10 py-2">
+            <NavLink to="/signup-freelancer-2" className="bg-gray-300 text-black rounded-md px-10 py-2">
               Back
             </NavLink>
-            <NavLink to="/signup-4" className="bg-[#418B71] text-white rounded-md px-10 py-2">
+            <NavLink to="/signup-freelancer-4" className="bg-[#418B71] text-white rounded-md px-10 py-2">
               Proceed: Hourly Rate
             </NavLink>
         </div>

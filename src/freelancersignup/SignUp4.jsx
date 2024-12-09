@@ -45,10 +45,10 @@ function SignUp4() {
         <div className="bg-[#00B676] h-1.5 rounded-full dark:bg-blue-500" style={{width: '80%'}}></div>
     </div>
     <div className="flex justify-between mt-8 pl-7 pr-7 pb-7">
-            <NavLink to="/signup-2" className="bg-gray-300 text-black rounded-md px-10 py-2">
+            <NavLink to="/signup-freelancer-3" className="bg-gray-300 text-black rounded-md px-10 py-2">
               Back
             </NavLink>
-            <NavLink to="/signup-5" className="bg-[#418B71] text-white rounded-md px-10 py-2">
+            <NavLink to="/signup-freelancer-5" className="bg-[#418B71] text-white rounded-md px-10 py-2">
               Proceed: Preview
             </NavLink>
     </div>

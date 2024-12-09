@@ -108,7 +108,7 @@ function SignUp1() {
         <NavLink to="/signup" className="bg-gray-300 text-black rounded-md px-10 py-2">
           Back
         </NavLink>
-        <NavLink to="/signup-freelancer-2" className="bg-[#418B71] text-white rounded-md px-10 py-2">
+        <NavLink to="/signup-2" className="bg-[#418B71] text-white rounded-md px-10 py-2">
           Proceed: Skills
         </NavLink>
       </div>

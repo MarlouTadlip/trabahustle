@@ -13,16 +13,16 @@ function SignUp2() {
             <form>
                 <div className="grid gap-6 mb-6 md:grid-cols-1">
                     <div>
-                        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Skill Categories</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Enter First Name" required />
+                        <label className="block mb-2 text-sm font-medium text-gray-900 ">Skill Categories</label>
+                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 " placeholder="Enter First Name" required />
                     </div>
                     <div>
-                        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Primary Skill</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Enter First Name" required />
+                        <label className="block mb-2 text-sm font-medium text-gray-900 ">Primary Skill</label>
+                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 " placeholder="Enter First Name" required />
                     </div>
                     <div>
-                        <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Experience Level</label>
-                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Enter First Name" required />
+                        <label className="block mb-2 text-sm font-medium text-gray-900 ">Experience Level</label>
+                        <input type="text" id="first_name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 " placeholder="Enter First Name" required />
                     </div>
                 </div>
             </form> 
@@ -38,7 +38,7 @@ function SignUp2() {
             <NavLink to="/upload-resume" className=" flex px-4 py-2 bg-[#EF8F00] text-white rounded-md justify-center items-center mb-3 shadow-lg">
                 <FileUser size={20} className="mr-2"/>Upload your Resume
             </NavLink>
-            <NavLink to="/signup-3" className=" flex px-4 py-2 bg-white text-[#6F6F6F] border-solid border-2 border-[#6F6F6F] rounded-md justify-center items-center mb-3 shadow-lg">
+            <NavLink to="/signup-freelancer-3" className=" flex px-4 py-2 bg-white text-[#6F6F6F] border-solid border-2 border-[#6F6F6F] rounded-md justify-center items-center mb-3 shadow-lg">
                 <Pencil size={20} className="mr-2"/>Fill in a Resume
             </NavLink>
         </div>
@@ -50,7 +50,7 @@ function SignUp2() {
         <div className="bg-[#00B676] h-1.5 rounded-full dark:bg-blue-500" style={{width: '40%'}}></div>
     </div>
     <div className="flex  mt-8 pl-7 pb-7">
-            <NavLink to="/signup-1" className="bg-gray-300 text-black rounded-md px-10 py-2">
+            <NavLink to="/signup-freelancer-1" className="bg-gray-300 text-black rounded-md px-10 py-2">
               Back
             </NavLink>
     </div>
