@@ -28,7 +28,7 @@ function SignUp() {
           </div>
         </div>
 
-        <NavLink to="/signup-1" className="text-center"><button className="bg-[#418B71] text-white rounded-md px-20 py-4 mb-4">
+        <NavLink to="/signup-freelancer-1" className="text-center"><button className="bg-[#418B71] text-white rounded-md px-20 py-4 mb-4">
           Proceed
         </button></NavLink>
 

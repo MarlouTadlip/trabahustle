@@ -35,10 +35,10 @@ function SignUp2() {
         </div>
       </div>
     <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700">
-        <div className="bg-[#00B676] h-1.5 rounded-full dark:bg-blue-500" style={{width: '25%'}}></div>
+        <div className="bg-[#00B676] h-1.5 rounded-full" style={{width: '25%'}}></div>
     </div>
     <div className="flex justify-between mt-8 pl-7 pr-7 pb-7">
-            <NavLink to="/signup-client-1" className="bg-gray-300 text-black rounded-md px-10 py-2">
+            <NavLink to="/signup-client-1" className="border-2 border-[#418B71] text-[#418B71] rounded-md px-10 py-2">
               Back
             </NavLink>
             <NavLink to="/signup-client-3" className="bg-[#418B71] text-white rounded-md px-10 py-2">

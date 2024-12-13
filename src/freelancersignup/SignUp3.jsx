@@ -5,7 +5,7 @@ function SignUp3(){
     return(
         <>
         <div>
-            <h1 className="pl-7 pt-7">1/5 <b className="ml-3">Freelancer Registration</b></h1>
+            <h1 className="pl-7 pt-7">3/5 <b className="ml-3">Freelancer Registration</b></h1>
         </div>
 
         <div className="pl-16 pr-16 pt-10 pb-28">

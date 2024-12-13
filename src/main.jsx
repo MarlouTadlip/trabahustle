@@ -24,6 +24,14 @@ import SignUpSuccess from './freelancersignup/SignUpSuccess.jsx';
 import SignUp1Client from './clientsignup/SignUp1.jsx';
 import SignUp2Client from './clientsignup/SignUp2.jsx';
 import SignUp3Client from './clientsignup/SignUp3.jsx';
+import SignUp4Client from './clientsignup/SignUp4.jsx';
+import SignUp5Client from './clientsignup/SignUp5.jsx';
+
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
+
 const router = createBrowserRouter([
   {
     path: '/',
@@ -104,6 +112,14 @@ const router = createBrowserRouter([
   {
     path: '/signup-client-3',
     element: <SignUp3Client/>
+  },
+  {
+    path: '/signup-client-4',
+    element: <SignUp4Client/>
+  },
+  {
+    path: '/signup-client-5',
+    element: <SignUp5Client/>
   }
 ]);
 

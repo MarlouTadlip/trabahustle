@@ -1,5 +1,6 @@
 import { NavLink } from 'react-router-dom';
 import { Info } from 'lucide-react'
+
 function UploadResume() {
     return(
         <div className="flex flex-col items-center text-center p-12">
